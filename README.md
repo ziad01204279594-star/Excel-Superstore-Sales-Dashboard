@@ -1,4 +1,5 @@
  📊 Superstore Sales Performance Dashboard (Excel)
+https://youtu.be/JLS2P7HsRNY
 
  Executive Summary
 An interactive end-to-end Excel dashboard designed to analyze sales performance, regional revenue distribution, customer buying behavior, and product categories for the Superstore dataset.
